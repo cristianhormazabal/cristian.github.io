@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(0, 0, 0);
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+header{
+background-color: black;
+
+}
+
+.titulopagina{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.imagen img{
+    width: 100%;
+
+}
+.informacion{
+    display: flex;
+}
+.informacion p{
+
+    color: white;
+}
+.imagen1{
+    width: 50%;
+    height: auto;
+
+}
+.imagen1 img{
+    width: 80%;
+}
+.textoinfo{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caracter{
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    text-align: center;
+    padding-top: 10px;
+}
+.caracter h2{
+    color: white;
+}
+.cajagrande{
+    color: white;
+    display: flex;
+    text-align: center;
+    
+}
+
+.fa-eye, .fa-hand-peace, .fa-paint-brush {
+    font-size: 50px;
+    color: gray;
+}
+.caja{
+    margin-left: 20%;
+}
+.CajaImagenes{
+    margin-top: 70px;
+}
+.CajaImagenes img{
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+}
+.imagen2{
+    display: inline;
+    margin-left: 6%;
+}
+footer{
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+}
+footer p {
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway;
+    color: #FFFFFF;
+    padding-top: 39px;
+}

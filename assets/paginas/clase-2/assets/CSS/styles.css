@@ -1,0 +1,52 @@
+body{
+    width: 90%;
+    margin: 0 auto;
+}
+
+header{
+    padding: 91px;
+    background: url("../IMG/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 46%;
+}
+
+.titulopagina{
+    width: 50%;
+    display: inline-block;
+}
+.titulopagina h1{
+    font-weight: bolder;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+.titulopagina p{
+    margin-top: 0px;
+}
+section{
+    
+    margin-left: 140px;
+}
+.imagen{
+    width: 500px;
+    margin: 30px 30px 30px 28px;
+    display: inline-block;
+}
+.imagen img{
+    width: 100%;
+}
+.texto{
+    display: inline-block;
+    position: absolute;
+    margin-top: 137px;
+}
+footer{
+    height: 35px;
+    background-color: rgb(223, 165, 42);
+}
+footer p {
+    font-size: large;
+    font-weight: bolder;
+    text-align:center;
+    padding: 8px;
+}

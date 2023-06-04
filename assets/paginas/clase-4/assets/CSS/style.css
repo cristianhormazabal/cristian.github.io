@@ -1,0 +1,26 @@
+body{
+    max-width: 1290px;
+    margin: 0 auto;
+    
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+footer img{
+    max-width: 89px
+}
+
+#nombre, #email{
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+h5, i, p, .textoroboto {
+    font-family: Roboto Light;
+}
+.textoroboto, p{
+   color: #707070;
+   margin-bottom: 0px;
+}
